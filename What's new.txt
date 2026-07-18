@@ -1,1 +1,1 @@
-‎
+An accessible context menu is now available by long-pressing a message, offering options such as Copy, Share, Word Statistics, and TXT file export. Message text files are now exported to your system's Download directory, specifically within the 'Copilot by Tayyab' subfolder. Includes a high-contrast, screen-reader optimized layout. 
